@@ -1,62 +1,64 @@
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+<p align="center">
+  <img src="https://www.wilsonmunoz.net/etc/apps/bitsotray/logo.png">
+</p>
+<hr>
+<br><br>
+  <img src="https://www.wilsonmunoz.net/etc/apps/bitsotray/mac.png">
+  <img src="https://www.wilsonmunoz.net/etc/apps/bitsotray/windows.png">
 
 
-***REMOVED***
-***REMOVED***
+<br>
+<h2>Description / Descripción:</h2>
 
-***REMOVED***
+Got tired of going to the site so i made this simple tray app to visualice information from Bitso.com, updates every 3 seconds.
 
-***REMOVED***
+*Me cansé de estar entrando a la pagina a cada rato, entonces hice esta simple app para visualizar la información. La apps se actualiza cada 3 segundos*
 
-***REMOVED***
-***REMOVED***
+<br><br>
+<h2>Installation / Instalación:</h2>
 
-***REMOVED***
+**Mac:**
 
-***REMOVED***
-***REMOVED***
+Just unzip, drop the app in your Applications folder and run the app.
+If you use Little Snitch let the app do its thing.
 
-***REMOVED***
-
-
-***REMOVED***
-
-***REMOVED***
-
-***REMOVED***
+*Sólo descomprime el archivo zip, mueve la aplicación a tu carpeta Applications (Aplicaciones) y abre la app. Si usas Little Snitch deja que la app haga su trabajo.*
 
 
-***REMOVED***
-***REMOVED***
+**Windows:**
 
-***REMOVED***
+Just unzip, move the folder in your documents, execute bitsotray.exe, in the future i will deliver an Installer to make this easier.
 
-***REMOVED***
+*Sólo descomprime el archivo zip, mueve la el folder a tus Documentos y ejecuta bitsotray.exe. En un futuro crearé un instalador para hacer esto más fácil.*
 
-***REMOVED***
 
-***REMOVED***
+<br><br>
+<h2>Compatibility / Compatibilidad:</h2>
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+I only had the chance to teste on MacOSX 10.11.6 El Capitan and Windows 10.
 
-***REMOVED***
+*Sólo he podido revisar en MacOSX 10.11.6 El Capitan y Windows 10.*
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+<br><br>
 
-***REMOVED***
+<h2>Note / Nota:</h2>
 
-***REMOVED***
+This is a **beta** release. I will be working on this whenever i can.
+As soon as i finish version 1 i will release the source code too.
+This is NOT AN OFICIAL app.
 
-***REMOVED***
-***REMOVED***
+*Esto es una version beta. Estaré trabajando en esto en tiempos libres que tenga. Tan pronto termine la versión 1 compartiré el código. esta NO ES UNA APP OFICIAL.*
 
+<br><br>
+<hr>
+<h3>Donate, Message:</h3>
+
+Invite me a coffee, **Bitcoin** / Invítame una taza de café, **Bitcoin** :
+
+> 3FrJ3ZcMf33MVhxparBPbfPx5noxdAfJ1j
+
+**Me / Yo**: 
+> https://twitter.com/yosoywil
+
+
+Mistake
