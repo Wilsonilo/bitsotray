@@ -1,19 +1,19 @@
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-
 ***REMOVED***
-##Screenshots:
+***REMOVED***
+<h2>Screenshots:</h1>
 ![](https://www.wilsonmunoz.net/etc/apps/bitsotray/mac.png)![](https://www.wilsonmunoz.net/etc/apps/bitsotray/windows.png)
 ***REMOVED******REMOVED***
-##Description / Descripción:
+<h2>Description / Descripción</h2>:
 
 ***REMOVED***
 
 ***REMOVED***
 
 ***REMOVED***
-##Installation / Instalación:
+<h2>Installation / Instalación</h2>:
 
 ***REMOVED***
 
@@ -22,16 +22,6 @@
 
 ***REMOVED***
 
-
-***REMOVED***
-
-***REMOVED***
-
-***REMOVED***
-
-
-***REMOVED***
-##Compatibility / Compatibilidad:
 
 ***REMOVED***
 
@@ -39,7 +29,17 @@
 
 ***REMOVED***
 
-##Note / Nota:
+
+***REMOVED***
+<h2>Compatibility / Compatibilidad</h2>:
+
+***REMOVED***
+
+***REMOVED***
+
+***REMOVED***
+
+<h2>Note / Nota</h2>:
 
 ***REMOVED***
 ***REMOVED***
@@ -49,7 +49,7 @@
 
 ***REMOVED***
 ***REMOVED***
-###Donate, Message:
+<h3>Donate, Message</h3>:
 
 ***REMOVED***
 
