@@ -59,6 +59,3 @@ Invite me a coffee, **Bitcoin** / Invítame una taza de café, **Bitcoin** :
 
 **Me / Yo**: 
 > https://twitter.com/yosoywil
-
-
-Mistake
