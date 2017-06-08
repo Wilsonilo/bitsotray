@@ -59,3 +59,14 @@ Invite me a coffee, **Bitcoin** / Invítame una taza de café, **Bitcoin** :
 
 **Me / Yo**: 
 > https://twitter.com/yosoywil
+
+<br><br>
+<hr>
+<h3>Licencia:</h3>
+Derechos de autor 2017 Wilson Muñoz.
+
+Autorizado en virtud de la Licencia de Apache, Versión 2.0 (la "Licencia"); se prohíbe utilizar este archivo excepto en cumplimiento de la Licencia. Podrá obtener una copia de la Licencia en:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+A menos que lo exijan las leyes pertinentes o se haya establecido por escrito, el software distribuido en virtud de la Licencia se distribuye “TAL CUAL”, SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas. Véase la Licencia para consultar el texto específico relativo a los permisos y limitaciones establecidos en la Licencia.
